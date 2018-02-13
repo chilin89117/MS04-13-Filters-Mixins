@@ -1,6 +1,6 @@
 {
-  "name": "09-filters-mixins",
-  "description": "MS04-09 Filters & Mixins",
+  "name": "ms04-13-filters-mixins",
+  "description": "MS04-13-Filters & Mixins",
   "version": "1.0.0",
   "author": "Chi Lin <chilin89117@gmail.com>",
   "private": true,
@@ -18,9 +18,9 @@
     "cross-env": "^5.0.5",
     "css-loader": "^0.28.7",
     "file-loader": "^1.1.4",
-    "vue-loader": "^13.0.5",
+    "vue-loader": "^13.7.1",
     "vue-template-compiler": "^2.4.4",
-    "webpack": "^3.6.0",
+    "webpack": "^3.11.0",
     "webpack-dev-server": "^2.9.1"
   }
 }
